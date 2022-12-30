@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/AWSAuthCore.framework/AWSAuthCore</key>
 		<data>
-		+ECw6tTvjjuoyibqdJU3Tyj4PSM=
+		LHwj2nmjmmnaKIgTnS5LgioBZeA=
 		</data>
 		<key>Frameworks/AWSAuthCore.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AWSCognitoIdentityProvider.framework/AWSCognitoIdentityProvider</key>
 		<data>
-		LFnkQZwuYZ7+FJmcLAJUZPBPRGM=
+		Z1MT1iminoF5WteBxiJTth7w/9M=
 		</data>
 		<key>Frameworks/AWSCognitoIdentityProvider.framework/Info.plist</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/AWSCognitoIdentityProviderASF.framework/AWSCognitoIdentityProviderASF</key>
 		<data>
-		aFKOTDCTkurT0dpbfys4rhfMeW4=
+		holXWR8WnDgryF1+UxFIkaZK6DA=
 		</data>
 		<key>Frameworks/AWSCognitoIdentityProviderASF.framework/Info.plist</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/AWSCore.framework/AWSCore</key>
 		<data>
-		GG59xOFs8QH9dmwsDe4DkagxQqA=
+		fdpWReazwqoowtnqdIZpN9Rjg5I=
 		</data>
 		<key>Frameworks/AWSCore.framework/Info.plist</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Frameworks/AWSMobileClient.framework/AWSMobileClient</key>
 		<data>
-		1rhtlU+qbnBiDymGzJMDCUj87pc=
+		YFFcY838jzyxToHMaJbn4ZL/rSc=
 		</data>
 		<key>Frameworks/AWSMobileClient.framework/Info.plist</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Frameworks/AWSPluginsCore.framework/AWSPluginsCore</key>
 		<data>
-		kf1tgU1m61ZDIxfKogKM2GfaiXg=
+		VByw1XsBvGRZ5iAFyhiMWkaw07I=
 		</data>
 		<key>Frameworks/AWSPluginsCore.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/AWSS3.framework/AWSS3</key>
 		<data>
-		Ru+qxJ67MrcFl/rqAMagPmHRsX8=
+		JuwvPeGqDRWoHAKzYhRLkjjfKM0=
 		</data>
 		<key>Frameworks/AWSS3.framework/Info.plist</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/Amplify.framework/Amplify</key>
 		<data>
-		rAfKofYZ6OWURg7xDtsDYKCDXOs=
+		lYzJW788kuY8EAHRiiz+x4PxWmI=
 		</data>
 		<key>Frameworks/Amplify.framework/Info.plist</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/AmplifyPlugins.framework/AmplifyPlugins</key>
 		<data>
-		K7o1cV8fMQGTdXzkpGSy6a0wWa0=
+		+MeF0huIXmTFTPe/CjkXpjuig34=
 		</data>
 		<key>Frameworks/AmplifyPlugins.framework/Info.plist</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		KiEltNWFc/RVEXizjGEeYhg6uFA=
+		R7wlyOa+Xrxum+iv2wKrdAk77lM=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AdGZIVPff7vcHibON0KmlBt3cQM=
+		IKdGjmqSYPPAZTjA7hpTUmxMkH8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		pk23jf5AHgvDdYEmOPe1QTioG64=
+		DpI2FRECGTz2c73gTuxRDR82VfE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -306,7 +306,7 @@
 		</data>
 		<key>Frameworks/ObjectMapper.framework/ObjectMapper</key>
 		<data>
-		PD6SAUIwmicRFsqP09mkPbiCi/Y=
+		ywe6ZJv+0NPzczo4fovg6xOqyXQ=
 		</data>
 		<key>Frameworks/ObjectMapper.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -322,7 +322,7 @@
 		</data>
 		<key>Frameworks/amplify_auth_cognito_ios.framework/amplify_auth_cognito_ios</key>
 		<data>
-		IL4a9oxTiXz37R+DKAJsZgWsrCA=
+		yIFzMtC9wPZxaKY6APl8SlAyOv8=
 		</data>
 		<key>Frameworks/amplify_core.framework/Info.plist</key>
 		<data>
@@ -334,7 +334,7 @@
 		</data>
 		<key>Frameworks/amplify_core.framework/amplify_core</key>
 		<data>
-		tPl9wp4lyVN3NrBFGe9zRvpwr+w=
+		nlmMHlk8Bnc/MNZ9nukkQUR7KoY=
 		</data>
 		<key>Frameworks/amplify_flutter_ios.framework/Info.plist</key>
 		<data>
@@ -346,7 +346,7 @@
 		</data>
 		<key>Frameworks/amplify_flutter_ios.framework/amplify_flutter_ios</key>
 		<data>
-		ANI5PBNv9kv/MV9mjuf/q9JsYQ8=
+		kZVmRKuU/Ftx4hgtqGOBPeURfNU=
 		</data>
 		<key>Frameworks/amplify_storage_s3_ios.framework/Info.plist</key>
 		<data>
@@ -358,7 +358,7 @@
 		</data>
 		<key>Frameworks/amplify_storage_s3_ios.framework/amplify_storage_s3_ios</key>
 		<data>
-		FWrYg/VMWOMVjnMAThbhxPZsXT8=
+		m853yKeJ3FcRC1qeUOaPscX5xXo=
 		</data>
 		<key>Frameworks/assets_audio_player.framework/Info.plist</key>
 		<data>
@@ -370,7 +370,7 @@
 		</data>
 		<key>Frameworks/assets_audio_player.framework/assets_audio_player</key>
 		<data>
-		3M2sX2OvrbUa/ulS8pLIB1LNLSY=
+		wkuQyeSEfx2Lv4eR0GzXuKXg0yw=
 		</data>
 		<key>Frameworks/assets_audio_player_web.framework/Info.plist</key>
 		<data>
@@ -382,7 +382,7 @@
 		</data>
 		<key>Frameworks/assets_audio_player_web.framework/assets_audio_player_web</key>
 		<data>
-		/0vaSrAUbFm4bvOCJTNThFO3MYg=
+		IVWHzIZLusq3VCNUx77a+QU+6ec=
 		</data>
 		<key>Frameworks/flutter_sound_core.framework/Info.plist</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Frameworks/flutter_sound_core.framework/flutter_sound_core</key>
 		<data>
-		iuncq1t53wu/Z84j/BTMnTTgIa8=
+		8YdLPE5dn51aS0E7THiyJ68j39A=
 		</data>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
@@ -406,7 +406,7 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		9m75iOT5IfI9BM6sT8J8FDwpQvI=
+		IrgoLd7zwEcd7U4nUd5toNa6BCA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -497,7 +497,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KGFAxPs2ELoBYKKBlow5Zk5eLZP3PI8NvKIyJ3H4Prk=
+			Svbr8PIWgzTAh1jpKK7n8Tm0z0ccfwdoUuDyOVtR0es=
 			</data>
 		</dict>
 		<key>Frameworks/AWSAuthCore.framework/Info.plist</key>
@@ -518,7 +518,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0yMbXNbHbSeu7t2bnYJ2pO1/oOMSQv5yfR0AbifHo+o=
+			bvqBU4H75nRT4eklEdYJqBlBVJsDLRFYVsQDiGNxo9U=
 			</data>
 		</dict>
 		<key>Frameworks/AWSCognitoIdentityProvider.framework/Info.plist</key>
@@ -539,7 +539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dHcg1suLDuMNfpNsMraQOMeOxX3hgq+VjBxEqSz/Udc=
+			F6ndv3XvC0cR6UsUcoJiulXS5oJeiv2w24ZJWKSkITQ=
 			</data>
 		</dict>
 		<key>Frameworks/AWSCognitoIdentityProviderASF.framework/Info.plist</key>
@@ -560,7 +560,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			29n2qklgWrpl/6YmMrh7UFM0qr9I4aPI9h4ugC7uzzI=
+			VNBSzy3QTr/6l+HgAyi9GbzXB5tOprCFrdlOx73AeSg=
 			</data>
 		</dict>
 		<key>Frameworks/AWSCore.framework/Info.plist</key>
@@ -581,7 +581,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LY3KIDGZ0xzWrUq/QzLSOsWuZgz5d7sEXwBMIK788pU=
+			vDzv5eaeehJw4PktYvAcSkw6gL1GuxdUPhERNUgQI5s=
 			</data>
 		</dict>
 		<key>Frameworks/AWSMobileClient.framework/Info.plist</key>
@@ -602,7 +602,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7fQgKzcHwKlbeRUgpsUTeP5mQyBmAVeOWCxFJS6phw=
+			oY580YubOy1yc6FDYE6mymvw8lUVlRHMQEPmGeFTewo=
 			</data>
 		</dict>
 		<key>Frameworks/AWSPluginsCore.framework/Info.plist</key>
@@ -623,7 +623,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eF3fnj0ygM9HTYMA+onSHp4v2dIpUyl8mwsJgaiecD0=
+			ccf3ebqGfkEa6bisp5I5FP22EoTqxRExKhTST1oy40I=
 			</data>
 		</dict>
 		<key>Frameworks/AWSS3.framework/Info.plist</key>
@@ -644,7 +644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eSycfJcrrNvRZeTarjxS2ZylZovOlcelDxQTkxVK+kg=
+			IMPH3KQIfqRcDtSebXQ7jLAKuynNydcWGCm+TvLba4o=
 			</data>
 		</dict>
 		<key>Frameworks/Amplify.framework/Info.plist</key>
@@ -665,7 +665,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WZBWZ+7LP2a2gofIAzkUbTaVsCS5SJ8IFLVwpYRkTXs=
+			qmqHq/xCdBn3jMR2JuOfHglO4hTKCrLBjK7neIbfiFc=
 			</data>
 		</dict>
 		<key>Frameworks/AmplifyPlugins.framework/Info.plist</key>
@@ -686,7 +686,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVbvOvK9wZLkjZKDkmClkWCzCfnwGMmaYh7Qgr4yrf8=
+			bRQs+/GtQ6QFVhhi/Cf0+xkGywg3OjBNE+J18Ys2Shk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -700,7 +700,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6MfOQYwJHBjJzNbjd7TuAtfkiX7LV52DrldiABP98Z0=
+			6xA8szoj1jeTBwC0QPDj+b9r571ebhrsayIIKPYuUbE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -742,7 +742,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iq9kHyj9vaOzGT1qm+u52QzyGjzjAYoDv12Lluc4/Lc=
+			tIhbpBEkWiwLcg2iJ/+rLyjBWA+AwHFkufE5JaTcSYE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -952,7 +952,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ftx6hzEPVsFyogysVrj3VnJ8piev0RTnPZ6JTLp0ARs=
+			8kLRnQaJYm1qRKLMVAA7enl+ZlPJE2GurRNjDTXFnZ4=
 			</data>
 		</dict>
 		<key>Frameworks/ObjectMapper.framework/_CodeSignature/CodeResources</key>
@@ -980,7 +980,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DG4m0suKFCUykN7fcKmKwkSoYHUYo81ZWWMFd/mlhNU=
+			NtrXFfoTH/UBbuw255GABistL81WABz/DC5VEEX+Vgg=
 			</data>
 		</dict>
 		<key>Frameworks/amplify_core.framework/Info.plist</key>
@@ -1001,7 +1001,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pa8+4558fOYexhHNv8e9A1LR+8yV0zcbQYTpR+v6bkw=
+			zXNukgv25H6PoBQbrUsCdj2BXJBk4gO9GPWNEB7vkUM=
 			</data>
 		</dict>
 		<key>Frameworks/amplify_flutter_ios.framework/Info.plist</key>
@@ -1022,7 +1022,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vcTh52cx5AqgYYjjdNyyHNQ5HP9IH+Mq42iOjLTI30g=
+			pzwNyQxJNVmQes5yv4R71F6u0rK5Dy3e90AJwoHmwAQ=
 			</data>
 		</dict>
 		<key>Frameworks/amplify_storage_s3_ios.framework/Info.plist</key>
@@ -1043,7 +1043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hZpcDBEcQJLDkws80g29QWPcnWJGl/rhSvM38hZb1oA=
+			m8GTmFBM7FlGRU0RgaNlBZp8yPI7YR/xx7HtsS48PQ8=
 			</data>
 		</dict>
 		<key>Frameworks/assets_audio_player.framework/Info.plist</key>
@@ -1064,7 +1064,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rSxMq740lGE+1MKGsUpuBUa9n7ujAmiepH+vVC57Z+g=
+			EUkPIGsA7/RijJNAjTOomZSPhsmZq1bq9JtXHTmIMkA=
 			</data>
 		</dict>
 		<key>Frameworks/assets_audio_player_web.framework/Info.plist</key>
@@ -1085,7 +1085,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFkFkDReVTlroq3WlzI0p2hDAEaRt52lR4V3E+shLZ8=
+			SrHadNEkTmAZDs8dFSDsXYJpxfsJkX4RZc4YUkjX7dU=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_sound_core.framework/Info.plist</key>
@@ -1106,7 +1106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80HdKAUp4XOgg5d2Ky/fpveMq0H0Bx1Z17H47Xz0Pcs=
+			7XrSggc7KW+cAqQA9R/S6w3LLRNZyRMoiOkRqF3Hg+0=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
@@ -1127,7 +1127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NnjlT3juo1b1nOWFBnXmp+GQcHDFqtIsroYUGdRpKtU=
+			nnM9DJUexX0SkGCfqk0/Lz2U+ZeSnRN3a2FWaplRzVY=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>

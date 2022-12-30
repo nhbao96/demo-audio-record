@@ -68,7 +68,11 @@ class _RecorderAudioPageState extends State<RecorderAudioPage> {
       if(!isPermisMicro.isGranted){
         throw 'Microphone permission not grannted';
       }
-     /* isPermissStorage = await Permission.storage.request();
+      if (await Permission.storage.request().isGranted) {
+        print("\n\n storage granted !");
+      }
+
+      /* isPermissStorage = await Permission.storage.request();
       if(!isPermissStorage.isGranted){
         throw 'Storage permission not grannted';
       }
@@ -93,7 +97,8 @@ class _RecorderAudioPageState extends State<RecorderAudioPage> {
     await recoder.openRecorder();
     isRecoderReady = true;
     recoder.setSubscriptionDuration(const Duration(milliseconds: 500));
-  print("\n\n\n -------> done func record \n\n\n");
+    print("\n\n\n -------> done func record ,\n\n\n");
+
   }
 
   Future record() async{
