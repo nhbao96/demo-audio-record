@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demoaudiorecord-dev-235335-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400466587103:role/amplify-demoaudiorecord-dev-235335-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400466587103:role/amplify-demoaudiorecord-dev-235335-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-demoaudiorecord-dev-235335-deployment",
+      "UnauthRoleName": "amplify-demoaudiorecord-dev-235335-unauthRole",
+      "StackName": "amplify-demoaudiorecord-dev-235335",
+      "StackId": "arn:aws:cloudformation:us-east-1:400466587103:stack/amplify-demoaudiorecord-dev-235335/5840c820-8799-11ed-b373-0a2ea1127e0d",
+      "AmplifyAppId": "d1ab3q7sh4e3s"
+    },
+    "categories": {
+      "auth": {
+        "demoaudiorecord354be967": {}
+      },
+      "function": {
+        "S3Triggerec3c5a14": {
+          "deploymentBucketName": "amplify-demoaudiorecord-dev-235335-deployment",
+          "s3Key": "amplify-builds/S3Triggerec3c5a14-51757477523748476932-build.zip"
+        }
+      },
+      "storage": {
+        "audio": {}
+      }
+    }
+  }
+}

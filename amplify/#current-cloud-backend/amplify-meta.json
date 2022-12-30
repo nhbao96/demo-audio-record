@@ -1,0 +1,112 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demoaudiorecord-dev-235335-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400466587103:role/amplify-demoaudiorecord-dev-235335-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400466587103:role/amplify-demoaudiorecord-dev-235335-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-demoaudiorecord-dev-235335-deployment",
+      "UnauthRoleName": "amplify-demoaudiorecord-dev-235335-unauthRole",
+      "StackName": "amplify-demoaudiorecord-dev-235335",
+      "StackId": "arn:aws:cloudformation:us-east-1:400466587103:stack/amplify-demoaudiorecord-dev-235335/5840c820-8799-11ed-b373-0a2ea1127e0d",
+      "AmplifyAppId": "d1ab3q7sh4e3s"
+    }
+  },
+  "auth": {
+    "demoaudiorecord354be967": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [
+          "EMAIL"
+        ],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-demoaudiorecord-dev-235335-deployment/amplify-cfn-templates/auth/demoaudiorecord354be967-cloudformation-template.json",
+        "logicalId": "authdemoaudiorecord354be967"
+      },
+      "lastPushTimeStamp": "2022-12-29T16:59:17.952Z",
+      "output": {
+        "UserPoolId": "us-east-1_JwQuWN3fI",
+        "AppClientIDWeb": "3tv48k22ojotvesk02p59sk7mp",
+        "AppClientID": "2i5tiqaopovt43m0snbrv24oc",
+        "IdentityPoolId": "us-east-1:10382319-7504-4475-8afa-a8519c685905",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-1:400466587103:userpool/us-east-1_JwQuWN3fI",
+        "IdentityPoolName": "demoaudiorecord354be967_identitypool_354be967__dev",
+        "UserPoolName": "demoaudiorecord354be967_userpool_354be967"
+      },
+      "lastPushDirHash": "dhw+Muv2FziMf2B3L51GmTJI470="
+    }
+  },
+  "function": {
+    "S3Triggerec3c5a14": {
+      "service": "Lambda",
+      "providerPlugin": "awscloudformation",
+      "build": true,
+      "lastBuildTimeStamp": "2022-12-29T16:56:25.608Z",
+      "lastBuildType": "PROD",
+      "lastPackageTimeStamp": "2022-12-29T16:56:25.633Z",
+      "distZipFilename": "S3Triggerec3c5a14-51757477523748476932-build.zip",
+      "s3Bucket": {
+        "deploymentBucketName": "amplify-demoaudiorecord-dev-235335-deployment",
+        "s3Key": "amplify-builds/S3Triggerec3c5a14-51757477523748476932-build.zip"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-demoaudiorecord-dev-235335-deployment/amplify-cfn-templates/function/S3Triggerec3c5a14-cloudformation-template.json",
+        "logicalId": "functionS3Triggerec3c5a14"
+      },
+      "lastPushTimeStamp": "2022-12-29T16:59:17.952Z",
+      "output": {
+        "Region": "us-east-1",
+        "Arn": "arn:aws:lambda:us-east-1:400466587103:function:S3Triggerec3c5a14-dev",
+        "Name": "S3Triggerec3c5a14-dev",
+        "LambdaExecutionRole": "S3Triggerec3c5a14LambdaRoleec3c5a14-dev"
+      },
+      "lastPushDirHash": "n3rLJ1upkdnUN1r9orfnABf0l+I="
+    }
+  },
+  "storage": {
+    "audio": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [
+        {
+          "category": "function",
+          "resourceName": "S3Triggerec3c5a14",
+          "attributes": [
+            "Name",
+            "Arn",
+            "LambdaExecutionRole"
+          ]
+        }
+      ],
+      "lastPushTimeStamp": "2022-12-29T16:59:17.952Z",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-demoaudiorecord-dev-235335-deployment/amplify-cfn-templates/storage/cloudformation-template.json",
+        "logicalId": "storageaudio"
+      },
+      "output": {
+        "BucketName": "audio235335-dev",
+        "Region": "us-east-1"
+      },
+      "lastPushDirHash": "nHh4mHjFXd6qGY/NF/1GFA77obE="
+    }
+  }
+}

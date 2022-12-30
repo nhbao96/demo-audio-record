@@ -1,0 +1,542 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:8:4-40:19
+MERGED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-36:19
+MERGED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-36:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:27:5-34:19
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:27:5-34:19
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:26:5-30:19
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:26:5-30:19
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:15:5-16:19
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:15:5-16:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c1f1a96409ca2596d82b517354480cce/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c1f1a96409ca2596d82b517354480cce/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/1197daf65be2480065dc60e80e82c026/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/1197daf65be2480065dc60e80e82c026/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/4f0d88cacad58185863ff854be1955c5/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/4f0d88cacad58185863ff854be1955c5/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:10:3-21:17
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:10:3-21:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:amplify_auth_cognito_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_auth_cognito_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:amplify_storage_s3_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_storage_s3_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:amplify_flutter_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:amplify_core] /Users/hoangbao/projects/demo_audio_record/build/amplify_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /Users/hoangbao/projects/demo_audio_record/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/hoangbao/projects/demo_audio_record/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_sound] /Users/hoangbao/projects/demo_audio_record/build/flutter_sound/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-38:12
+MERGED from [:assets_audio_player_web] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player_web/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/eef5aafd87793cc8f4547caddfab894d/transformed/jetified-aws-auth-cognito-1.37.2/AndroidManifest.xml:16:1-24:12
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:16:1-36:12
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:16:1-32:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/29c40886179966841f79a8168f35388c/transformed/jetified-navigation-dynamic-features-fragment-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/b0f7139b83844766f4bdfa6b6c4f7eb8/transformed/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/abd20118f513335955c0f1e81d423992/transformed/navigation-ui-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/763bb4fccbab24f8995f596a70c96af7/transformed/jetified-navigation-dynamic-features-runtime-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/85aa1996cd31fbd440e7cfc3463ee9a3/transformed/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/07b835e30160ca47611b9f5a23ce8116/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/de4c5f2ae0cddad7cc481857983156b6/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/8cb5525c94b453d057cc6d7ba2b8cb8a/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/f45ab5439810d3dc19ce4f8b99e6d35f/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/6bd4971572bb4c6c0bfb2a9888bd19d2/transformed/jetified-aws-android-sdk-s3-2.51.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:2:1-20:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/4c0473fa501adbb77e16660f06f182a2/transformed/jetified-aws-android-sdk-auth-core-2.51.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d51f3c0baf3d7d89b849ab41f59ef3a4/transformed/jetified-aws-android-sdk-cognitoidentityprovider-2.51.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/bdda32628e66d8c15dde3c243751c7d3/transformed/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/aebc2dec289e4ddf2111cc1088491dfd/transformed/jetified-aws-android-sdk-kms-2.51.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/cda27cb0d37a0ac6c948a4b3750da891/transformed/navigation-ui-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c1f1a96409ca2596d82b517354480cce/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/09a71f45a2f110948b735c42a8fac7af/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c92dc2c96d6d4f63417b6618f1c1bf1d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c957496942d8f1b0b8c1a26b538e2012/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7436490685866f1ffc1bc6c802d447bb/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] /Users/hoangbao/.gradle/caches/transforms-3/0ed46d9ca7b013a850a878b458ebba1c/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c29be26bde57a53a1779e13a63b4d2bb/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c10a033cd025df3688e5b79554bec86b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/9bf7d6627392b7c40bb2342186975a52/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/1197daf65be2480065dc60e80e82c026/transformed/jetified-glide-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/95b763ed33268434d1a652dbf80ab46a/transformed/navigation-fragment-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hoangbao/.gradle/caches/transforms-3/86302acde65cdee925f535b0bf1f911d/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/60d263f8be38f0f2b4fd64379b99dcf1/transformed/navigation-runtime-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/51611c76053d94ed18c5f5c27697266c/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/cda2a1ca4d3bd6aae60d8d586ec4f3ff/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/3e3509a6e29241205a87ee9fedabb59e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/9cc12674340416d986d3f85facb4cb0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/d1e7acf1aa2051d3be77ae7ecbe61dff/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/8cf10340b5c141cf7f9392e7078a9af8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/5fcc35c0497b8fd35e7df16d700d16bb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/hoangbao/.gradle/caches/transforms-3/f9d3f08bc5861fbe471226bd38dc8e54/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/83543b509ea72d197642ff197da2edd7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c0c5f8382331f2d900d2cb549c45e898/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/2c6be38e30f8cf1860a7d797db152b77/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/3a671bfed6506b0acdb47cdc47be96ce/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/7e622c7f84c68b5e781a50745765423d/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/438c54c693ed4bcc6c3eb0891b65aca8/transformed/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/411e2414b15f0c4ede14d2c515ddc895/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/e4c191dea21544d9757894f47c2620a9/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/70f2899db7c6a5f26c200e3817bd96e0/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/569ce58d3dd49b227442bbb0d5f7ce08/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/ff65482bd388a984f10ca7f5c3c41d0d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7452f5f3cbe2f9f7b119f33b5185d3c0/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c17cf266156de71799199302788a6c34/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/c6306323ecf9b95c0009500654d50a0a/transformed/navigation-common-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/5072ece500f15c68696d71a093cc6aa2/transformed/navigation-common-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/a214e57f72ab68d769f6748474222e4c/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/fab4b5cf3bef7ba1229dc69b5955a001/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/2e024d4841d74db69302ef5890d6b07b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7239cefdd1d04235528b902a5e503ee3/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/05c2de6c56c64f8d434598c70fd03a6e/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/d420a3604eb8ed37e7fff594577965ed/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/4f0d88cacad58185863ff854be1955c5/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/hoangbao/.gradle/caches/transforms-3/539a94614d24f722d5bd095ae25baaca/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0a61235ee85b784b47df8fe711b7ca78/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/d486eee418567504419697de2b3eb487/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/5210929c6bf1b640a57ff02b8ff864f4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/860a920bd188d8e467960610e541a595/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/030cbe894f59f6068671c5a12b2190e8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/52209f20efc31613e6a8da15f7614461/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c24f99b8bdfeb14f29b2ef7a86a4db48/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/391dbc4c601d40f71df8c0bc4da55bcb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/c80dc4b85efda0ef2afaac1c5baf1a7c/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7fcad9088319f1ebd7850d62df4bcaf7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0606c11eaf6fcfaa1820871094c24aae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangbao/.gradle/caches/transforms-3/d67fb65d423f69a271e62fa0f5833fa6/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/38f6a662321be909ca54ed9fccb79928/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:4:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml:7:22-79
+uses-sdk
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+MERGED from [:amplify_auth_cognito_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_auth_cognito_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_auth_cognito_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_auth_cognito_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_storage_s3_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_storage_s3_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_storage_s3_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_storage_s3_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_flutter_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_flutter_android] /Users/hoangbao/projects/demo_audio_record/build/amplify_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_core] /Users/hoangbao/projects/demo_audio_record/build/amplify_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amplify_core] /Users/hoangbao/projects/demo_audio_record/build/amplify_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/hoangbao/projects/demo_audio_record/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/hoangbao/projects/demo_audio_record/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/hoangbao/projects/demo_audio_record/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/hoangbao/projects/demo_audio_record/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_sound] /Users/hoangbao/projects/demo_audio_record/build/flutter_sound/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_sound] /Users/hoangbao/projects/demo_audio_record/build/flutter_sound/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:40
+MERGED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:40
+MERGED from [:assets_audio_player_web] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player_web/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:assets_audio_player_web] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player_web/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/eef5aafd87793cc8f4547caddfab894d/transformed/jetified-aws-auth-cognito-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/eef5aafd87793cc8f4547caddfab894d/transformed/jetified-aws-auth-cognito-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/29c40886179966841f79a8168f35388c/transformed/jetified-navigation-dynamic-features-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/29c40886179966841f79a8168f35388c/transformed/jetified-navigation-dynamic-features-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/b0f7139b83844766f4bdfa6b6c4f7eb8/transformed/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/b0f7139b83844766f4bdfa6b6c4f7eb8/transformed/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/abd20118f513335955c0f1e81d423992/transformed/navigation-ui-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/abd20118f513335955c0f1e81d423992/transformed/navigation-ui-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/763bb4fccbab24f8995f596a70c96af7/transformed/jetified-navigation-dynamic-features-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/763bb4fccbab24f8995f596a70c96af7/transformed/jetified-navigation-dynamic-features-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/85aa1996cd31fbd440e7cfc3463ee9a3/transformed/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/85aa1996cd31fbd440e7cfc3463ee9a3/transformed/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/07b835e30160ca47611b9f5a23ce8116/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/07b835e30160ca47611b9f5a23ce8116/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/de4c5f2ae0cddad7cc481857983156b6/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/de4c5f2ae0cddad7cc481857983156b6/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/8cb5525c94b453d057cc6d7ba2b8cb8a/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/8cb5525c94b453d057cc6d7ba2b8cb8a/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/f45ab5439810d3dc19ce4f8b99e6d35f/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/f45ab5439810d3dc19ce4f8b99e6d35f/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/6bd4971572bb4c6c0bfb2a9888bd19d2/transformed/jetified-aws-android-sdk-s3-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/6bd4971572bb4c6c0bfb2a9888bd19d2/transformed/jetified-aws-android-sdk-s3-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:12:5-15:96
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:12:5-15:96
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/4c0473fa501adbb77e16660f06f182a2/transformed/jetified-aws-android-sdk-auth-core-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/4c0473fa501adbb77e16660f06f182a2/transformed/jetified-aws-android-sdk-auth-core-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d51f3c0baf3d7d89b849ab41f59ef3a4/transformed/jetified-aws-android-sdk-cognitoidentityprovider-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d51f3c0baf3d7d89b849ab41f59ef3a4/transformed/jetified-aws-android-sdk-cognitoidentityprovider-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/bdda32628e66d8c15dde3c243751c7d3/transformed/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/bdda32628e66d8c15dde3c243751c7d3/transformed/jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/aebc2dec289e4ddf2111cc1088491dfd/transformed/jetified-aws-android-sdk-kms-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/aebc2dec289e4ddf2111cc1088491dfd/transformed/jetified-aws-android-sdk-kms-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/cda27cb0d37a0ac6c948a4b3750da891/transformed/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/cda27cb0d37a0ac6c948a4b3750da891/transformed/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c1f1a96409ca2596d82b517354480cce/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c1f1a96409ca2596d82b517354480cce/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/09a71f45a2f110948b735c42a8fac7af/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/09a71f45a2f110948b735c42a8fac7af/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c92dc2c96d6d4f63417b6618f1c1bf1d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c92dc2c96d6d4f63417b6618f1c1bf1d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c957496942d8f1b0b8c1a26b538e2012/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c957496942d8f1b0b8c1a26b538e2012/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7436490685866f1ffc1bc6c802d447bb/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7436490685866f1ffc1bc6c802d447bb/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/hoangbao/.gradle/caches/transforms-3/0ed46d9ca7b013a850a878b458ebba1c/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/hoangbao/.gradle/caches/transforms-3/0ed46d9ca7b013a850a878b458ebba1c/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c29be26bde57a53a1779e13a63b4d2bb/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c29be26bde57a53a1779e13a63b4d2bb/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c10a033cd025df3688e5b79554bec86b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/c10a033cd025df3688e5b79554bec86b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/9bf7d6627392b7c40bb2342186975a52/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/9bf7d6627392b7c40bb2342186975a52/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/1197daf65be2480065dc60e80e82c026/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/1197daf65be2480065dc60e80e82c026/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/95b763ed33268434d1a652dbf80ab46a/transformed/navigation-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/95b763ed33268434d1a652dbf80ab46a/transformed/navigation-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hoangbao/.gradle/caches/transforms-3/86302acde65cdee925f535b0bf1f911d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/hoangbao/.gradle/caches/transforms-3/86302acde65cdee925f535b0bf1f911d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/60d263f8be38f0f2b4fd64379b99dcf1/transformed/navigation-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/60d263f8be38f0f2b4fd64379b99dcf1/transformed/navigation-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/51611c76053d94ed18c5f5c27697266c/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/hoangbao/.gradle/caches/transforms-3/51611c76053d94ed18c5f5c27697266c/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/cda2a1ca4d3bd6aae60d8d586ec4f3ff/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/cda2a1ca4d3bd6aae60d8d586ec4f3ff/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/3e3509a6e29241205a87ee9fedabb59e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/3e3509a6e29241205a87ee9fedabb59e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/9cc12674340416d986d3f85facb4cb0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/9cc12674340416d986d3f85facb4cb0b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/d1e7acf1aa2051d3be77ae7ecbe61dff/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangbao/.gradle/caches/transforms-3/d1e7acf1aa2051d3be77ae7ecbe61dff/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/8cf10340b5c141cf7f9392e7078a9af8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/8cf10340b5c141cf7f9392e7078a9af8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/5fcc35c0497b8fd35e7df16d700d16bb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/5fcc35c0497b8fd35e7df16d700d16bb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/hoangbao/.gradle/caches/transforms-3/f9d3f08bc5861fbe471226bd38dc8e54/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/hoangbao/.gradle/caches/transforms-3/f9d3f08bc5861fbe471226bd38dc8e54/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/83543b509ea72d197642ff197da2edd7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/83543b509ea72d197642ff197da2edd7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c0c5f8382331f2d900d2cb549c45e898/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c0c5f8382331f2d900d2cb549c45e898/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/2c6be38e30f8cf1860a7d797db152b77/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/2c6be38e30f8cf1860a7d797db152b77/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/3a671bfed6506b0acdb47cdc47be96ce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/3a671bfed6506b0acdb47cdc47be96ce/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/7e622c7f84c68b5e781a50745765423d/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/7e622c7f84c68b5e781a50745765423d/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/438c54c693ed4bcc6c3eb0891b65aca8/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/hoangbao/.gradle/caches/transforms-3/438c54c693ed4bcc6c3eb0891b65aca8/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/411e2414b15f0c4ede14d2c515ddc895/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/411e2414b15f0c4ede14d2c515ddc895/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/e4c191dea21544d9757894f47c2620a9/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/e4c191dea21544d9757894f47c2620a9/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/70f2899db7c6a5f26c200e3817bd96e0/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/70f2899db7c6a5f26c200e3817bd96e0/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/569ce58d3dd49b227442bbb0d5f7ce08/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/569ce58d3dd49b227442bbb0d5f7ce08/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/ff65482bd388a984f10ca7f5c3c41d0d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/ff65482bd388a984f10ca7f5c3c41d0d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7452f5f3cbe2f9f7b119f33b5185d3c0/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7452f5f3cbe2f9f7b119f33b5185d3c0/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c17cf266156de71799199302788a6c34/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c17cf266156de71799199302788a6c34/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/c6306323ecf9b95c0009500654d50a0a/transformed/navigation-common-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/c6306323ecf9b95c0009500654d50a0a/transformed/navigation-common-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/5072ece500f15c68696d71a093cc6aa2/transformed/navigation-common-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/hoangbao/.gradle/caches/transforms-3/5072ece500f15c68696d71a093cc6aa2/transformed/navigation-common-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/a214e57f72ab68d769f6748474222e4c/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/a214e57f72ab68d769f6748474222e4c/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/hoangbao/.gradle/caches/transforms-3/57d13c65eae90a7945dea98c1aa2b720/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangbao/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/fab4b5cf3bef7ba1229dc69b5955a001/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/fab4b5cf3bef7ba1229dc69b5955a001/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/2e024d4841d74db69302ef5890d6b07b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/2e024d4841d74db69302ef5890d6b07b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7239cefdd1d04235528b902a5e503ee3/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/7239cefdd1d04235528b902a5e503ee3/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/05c2de6c56c64f8d434598c70fd03a6e/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/05c2de6c56c64f8d434598c70fd03a6e/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/d420a3604eb8ed37e7fff594577965ed/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/d420a3604eb8ed37e7fff594577965ed/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/4f0d88cacad58185863ff854be1955c5/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/hoangbao/.gradle/caches/transforms-3/4f0d88cacad58185863ff854be1955c5/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/hoangbao/.gradle/caches/transforms-3/539a94614d24f722d5bd095ae25baaca/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/hoangbao/.gradle/caches/transforms-3/539a94614d24f722d5bd095ae25baaca/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0a61235ee85b784b47df8fe711b7ca78/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0a61235ee85b784b47df8fe711b7ca78/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/d486eee418567504419697de2b3eb487/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/d486eee418567504419697de2b3eb487/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/5210929c6bf1b640a57ff02b8ff864f4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/5210929c6bf1b640a57ff02b8ff864f4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/860a920bd188d8e467960610e541a595/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/860a920bd188d8e467960610e541a595/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/030cbe894f59f6068671c5a12b2190e8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/030cbe894f59f6068671c5a12b2190e8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/52209f20efc31613e6a8da15f7614461/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/52209f20efc31613e6a8da15f7614461/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c24f99b8bdfeb14f29b2ef7a86a4db48/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/c24f99b8bdfeb14f29b2ef7a86a4db48/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/391dbc4c601d40f71df8c0bc4da55bcb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangbao/.gradle/caches/transforms-3/391dbc4c601d40f71df8c0bc4da55bcb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/c80dc4b85efda0ef2afaac1c5baf1a7c/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hoangbao/.gradle/caches/transforms-3/c80dc4b85efda0ef2afaac1c5baf1a7c/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7fcad9088319f1ebd7850d62df4bcaf7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/7fcad9088319f1ebd7850d62df4bcaf7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0606c11eaf6fcfaa1820871094c24aae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hoangbao/.gradle/caches/transforms-3/0606c11eaf6fcfaa1820871094c24aae/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangbao/.gradle/caches/transforms-3/d67fb65d423f69a271e62fa0f5833fa6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangbao/.gradle/caches/transforms-3/d67fb65d423f69a271e62fa0f5833fa6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/38f6a662321be909ca54ed9fccb79928/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hoangbao/.gradle/caches/transforms-3/38f6a662321be909ca54ed9fccb79928/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangbao/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:4:3-70
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:15:9-93
+	android:targetSdkVersion
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:7:5-66
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:24:5-67
+MERGED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:24:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:17:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:25:5-77
+MERGED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:25:5-77
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:8:3-74
+MERGED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:12:5-68
+MERGED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-65
+receiver#com.github.florent37.assets_audio_player.notification.NotificationActionReceiver
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:39
+	android:exported
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-108
+receiver#com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-23:20
+	android:exported
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-107
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:21:25-74
+service#com.github.florent37.assets_audio_player.notification.NotificationService
+ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-35:19
+	android:enabled
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-35
+	android:exported
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [:assets_audio_player] /Users/hoangbao/projects/demo_audio_record/build/assets_audio_player/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-101
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:1:1-8:12 reason: com.github.florent37.assets_audio_player has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/hoangbao/projects/demo_audio_record/android/app/src/debug/AndroidManifest.xml:1:1-8:12 reason: com.github.florent37.assets_audio_player requested WRITE_EXTERNAL_STORAGE
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/hoangbao/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:28:9-30:38
+	android:enabled
+		ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:29:13-93
+service#com.amplifyframework.storage.s3.service.AmplifyTransferService
+ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:31:9-33:38
+	android:enabled
+		ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from [com.amplifyframework:aws-storage-s3:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/2ff7f98dc0633ca574bd3f5c77413ad7/transformed/jetified-aws-storage-s3-1.37.2/AndroidManifest.xml:32:13-90
+activity#com.amplifyframework.devmenu.DeveloperMenuActivity
+ADDED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:27:9-29:54
+	android:theme
+		ADDED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from [com.amplifyframework:core:1.37.2] /Users/hoangbao/.gradle/caches/transforms-3/d515b3797f32834f37590eeef7029eb9/transformed/jetified-core-1.37.2/AndroidManifest.xml:28:13-78
+activity#com.amazonaws.mobileconnectors.cognitoauth.activities.CustomTabsManagerActivity
+ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:15:13-44
+	android:exported
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/5faea49f5e334947066b3298dcb88dc2/transformed/jetified-aws-android-sdk-cognitoauth-2.51.0/AndroidManifest.xml:13:13-107
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-s3:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/6bd4971572bb4c6c0bfb2a9888bd19d2/transformed/jetified-aws-android-sdk-s3-2.51.0/AndroidManifest.xml:10:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:18:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/d71eb9f1fb4f9162560ce796f441f2df/transformed/jetified-aws-android-sdk-mobile-client-2.51.0/AndroidManifest.xml:18:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/70f2899db7c6a5f26c200e3817bd96e0/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/70f2899db7c6a5f26c200e3817bd96e0/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/d420a3604eb8ed37e7fff594577965ed/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/hoangbao/.gradle/caches/transforms-3/d420a3604eb8ed37e7fff594577965ed/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-s3:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/6bd4971572bb4c6c0bfb2a9888bd19d2/transformed/jetified-aws-android-sdk-s3-2.51.0/AndroidManifest.xml:10:22-76
+uses-library#org.apache.http.legacy
+ADDED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:11:9-13:40
+	android:required
+		ADDED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-core:2.51.0] /Users/hoangbao/.gradle/caches/transforms-3/088444d792e762da752be6a6f1bc5291/transformed/jetified-aws-android-sdk-core-2.51.0/AndroidManifest.xml:12:13-50
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:9.2.13] /Users/hoangbao/.gradle/caches/transforms-3/d4c72099a184a6068ced9f5a4d5244ee/transformed/jetified-flutter_sound_core-9.2.13/AndroidManifest.xml:13:22-77
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:16:5-18:15
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:16:14-95
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:17:7-108
+	android:value
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:17:85-106
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:17:18-84
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:19:5-147
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:19:97-120
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:19:121-145
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] /Users/hoangbao/.gradle/caches/transforms-3/4dc42801b0302e5558967fbae7bc8ebb/transformed/jetified-core-1.9.1/AndroidManifest.xml:19:14-96
